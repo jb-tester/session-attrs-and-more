@@ -1,0 +1,11 @@
+###
+ GET http://localhost:8080/pathvars_tests/from_autowired_request_var/mypathvar_value/test
+
+###
+ GET http://localhost:8080/pathvars_tests/pojo_tests/my_bean/mybean_id_value/test
+
+###
+ GET http://localhost:8080/pathvars_tests/pojo_tests/my_pojo/name1/age1
+
+###
+ GET http://localhost:8080/pathvars_tests/pojo_tests/my_pojo2/name2/age2

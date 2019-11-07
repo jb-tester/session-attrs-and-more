@@ -1,0 +1,1 @@
+${mypathvar_attr}
