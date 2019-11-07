@@ -1,4 +1,4 @@
-package com.mytests.spring.boot.mvc.sessionAttrsAndMore;
+package com.mytests.spring.boot.mvc.sessionAttrsAndMore.pojos;
 
 /**
  * *******************************

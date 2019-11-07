@@ -1,5 +1,6 @@
 package com.mytests.spring.boot.mvc.sessionAttrsAndMore;
 
+import com.mytests.spring.boot.mvc.sessionAttrsAndMore.pojos.MyBean;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;

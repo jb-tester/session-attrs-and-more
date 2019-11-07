@@ -1,4 +1,4 @@
-package com.mytests.spring.boot.mvc.sessionAttrsAndMore;
+package com.mytests.spring.boot.mvc.sessionAttrsAndMore.pojos;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
