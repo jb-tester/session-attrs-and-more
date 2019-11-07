@@ -1,4 +1,4 @@
-package com.mytests.spring.boot.mvc.sessionAttrsAndMore;
+package com.mytests.spring.boot.mvc.sessionAttrsAndMore.pathvarsTests;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
